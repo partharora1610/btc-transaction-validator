@@ -1,5 +1,3 @@
-# Summer of Bitcoin 2024: Mine your first block
-
 ## Overview
 In this challenge, you are tasked with the simulation of mining process of a block, which includes validating and including transactions from a given set of transactions.
 The repository contains a folder `mempool` which contains JSON files. 
